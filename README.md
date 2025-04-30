@@ -7,7 +7,7 @@
   - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612/qiskit-metal)
   - [Credit Risk Scoring Model](https://github.com/mihirranjan612)
 - <b>ML-AI based projects</b>
-  - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/mihirranjan612)
+  - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/snehalsreedhar/NLP-on-pharma-stocks.git)
 
 <h2>Certifications</h2>
 
