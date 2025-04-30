@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Snehal! </h1>
+<h3> I am a Economics gradaute from University of Amsterdam currently working as a Risk Analyst, I have done various python projects in the field of quantitative finance and have made this page to reflect my portfolio for the same. Feel free to reach out for any questions or queries. Cheers! </h3>
 
-<!--
-**snehalsreedhar/SnehalSreedhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Quantitative Finance Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Finance based projects</b>
+  - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612/qiskit-metal)
+  - [Options Pricing Model](https://github.com/mihirranjan612)
+  - [Credit Risk Analysis](https://github.com/mihirranjan612)
+- <b>ML-AI based projects</b>
+  - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/mihirranjan612)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+
+- <b>Python</b>
+  - [example here](https://github.com/mihirranjan612)
+
+<h2> 🤳 Connect with me:</h2>
+
+<b> Contact No. - </b> ‪+91 9205652545‬ <br/>
+<b> Email - </b> snehal.sreedhar@alumni.ashoka.edu.in
+
+[<img align="left" alt="SnehalSreedhar| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SnehalSreedhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/snehalsreedhar/
+[linkedin]: https://linkedin.com/in/snehalsreedhar/ 
