@@ -4,7 +4,7 @@
 <h2>Quantitative Finance Projects</h2>
 
 - <b>Finance based projects</b>
-  - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612/qiskit-metal)
+  - [Monte Carlo VaR Simulation](https://github.com/snehalsreedhar/Credit-Risk-Scoring.git)
   - [Credit Risk Scoring Model](https://github.com/mihirranjan612)
 - <b>ML-AI based projects</b>
   - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/snehalsreedhar/NLP-on-pharma-stocks.git)
