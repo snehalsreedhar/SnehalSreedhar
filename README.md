@@ -5,7 +5,7 @@
 
 - <b>Finance based projects</b>
   - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612/qiskit-metal)
-  - [Credit Risk Analysis](https://github.com/mihirranjan612)
+  - [Credit Risk Scoring Model](https://github.com/mihirranjan612)
 - <b>ML-AI based projects</b>
   - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/mihirranjan612)
 
@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<b> Contact No. - </b> ‪+91 9205652545‬ <br/>
+<b> Contact No. - </b> ‪+91 9599800682 <br/>
 <b> Email - </b> snehal.sreedhar@alumni.ashoka.edu.in
 
 [<img align="left" alt="SnehalSreedhar| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
