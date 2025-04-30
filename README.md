@@ -5,7 +5,6 @@
 
 - <b>Finance based projects</b>
   - [Monte Carlo VaR Simulation](https://github.com/mihirranjan612/qiskit-metal)
-  - [Options Pricing Model](https://github.com/mihirranjan612)
   - [Credit Risk Analysis](https://github.com/mihirranjan612)
 - <b>ML-AI based projects</b>
   - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/mihirranjan612)
