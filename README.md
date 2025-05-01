@@ -12,7 +12,7 @@
 <h2>Certifications</h2>
 
 - <b>Python</b>
-  - [example here](https://github.com/mihirranjan612)
+  - [Time Series Anaysis](https://www.datacamp.com/completed/statement-of-accomplishment/course/3d15702242175e204841c7c0ff7deed048297d09)
 
 <h2> 🤳 Connect with me:</h2>
 
