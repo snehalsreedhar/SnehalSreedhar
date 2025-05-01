@@ -13,6 +13,7 @@
 
 - <b>Python</b>
   - [Time Series Anaysis](https://www.datacamp.com/completed/statement-of-accomplishment/course/3d15702242175e204841c7c0ff7deed048297d09)
+  - [Manipulating Time Series](https://www.datacamp.com/completed/statement-of-accomplishment/course/283ceddc8fd4e60a2ee8413c3a30bfb877d60ad0)
   - [Python Data Structures](https://coursera.org/share/d880de9f407faa1dedb433079c9b4684)
 
 <h2> 🤳 Connect with me:</h2>
@@ -25,4 +26,3 @@
 
 [instagram]: https://www.instagram.com/snehalsreedhar/
 [linkedin]: https://linkedin.com/in/snehalsreedhar/ 
-
