@@ -26,5 +26,3 @@
 [instagram]: https://www.instagram.com/snehalsreedhar/
 [linkedin]: https://linkedin.com/in/snehalsreedhar/ 
 
-
-https://coursera.org/share/d880de9f407faa1dedb433079c9b4684
