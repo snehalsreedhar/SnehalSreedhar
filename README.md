@@ -1,5 +1,5 @@
 <h1>Hi, I'm Snehal! </h1>
-<h3> I am a Economics gradaute from University of Amsterdam currently working as a Risk Analyst, I have done various python projects in the field of quantitative finance and have made this page to reflect my portfolio for the same. Feel free to reach out for any questions or queries. Cheers! </h3>
+<h3> I am a post-gradaute in Economics from University of Amsterdam currently working as a Risk Analyst, I have done various python projects in the field of quantitative finance and have made this page to reflect my portfolio for the same. Feel free to reach out for any questions or queries. Cheers! </h3>
 
 <h2>Quantitative Finance Projects</h2>
 
