@@ -7,7 +7,7 @@
   - [Monte Carlo VaR Simulation](https://github.com/snehalsreedhar/Monte-Carlo-VaR-Simulation.git)
   - [Credit Risk Scoring Model](https://github.com/snehalsreedhar/Credit-Risk-Scoring.git)
 - <b>ML-AI based projects</b>
-  - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/snehalsreedhar/NLP-on-pharma-stocks.git)
+  - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/snehalsreedhar/NLP-on-pharma-stock.git)
 
 <h2>Certifications</h2>
 
