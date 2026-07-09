@@ -1,13 +1,9 @@
 <h1>Hi, I'm Snehal! </h1>
 <h3> I am a post-gradaute in Economics from University of Amsterdam currently working as a Risk Analyst, I have done various python projects in the field of quantitative finance and have made this page to reflect my portfolio for the same. Feel free to reach out for any questions or queries. Cheers! </h3>
 
-<h2>Quantitative Finance Projects</h2>
-
-- <b>Finance based projects</b>
-  - [Monte Carlo VaR Simulation](https://github.com/snehalsreedhar/Monte-Carlo-VaR-Simulation.git)
-  - [Credit Risk Scoring Model](https://github.com/snehalsreedhar/Credit-Risk-Scoring.git)
-- <b>ML-AI based projects</b>
-  - [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/snehalsreedhar/NLP-on-pharma-stock.git)
+<h2>Projects</h2>
+- [Leveraging NLP and Sentiment Analysis in Pharma Sector Stocks](https://github.com/snehalsreedhar/NLP-on-pharma-stock.git)
+- [Marketing Decision Engine](https://github.com/snehalsreedhar/Marketing-Decision-Engine-From-Attribution-to-Spend-Optimization.git)
 
 <h2>Certifications</h2>
 
